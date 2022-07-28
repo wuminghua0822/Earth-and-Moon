@@ -212,6 +212,11 @@
 			{
 				"name": "Earth.js",
 				"source": "function update( event ) {this.rotation.y += 0.01}"
+			}],
+		"f4df1733-33a0-477f-9d6e-d342a49d23ef": [
+			{
+				"name": "Moon.js",
+				"source": "function update( event ) {this.rotation.y += 0.01}"
 			}]
 	}
 }
